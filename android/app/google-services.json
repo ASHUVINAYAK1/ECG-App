@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258230042991",
+    "project_id": "ecg-app-c2ddd",
+    "storage_bucket": "ecg-app-c2ddd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258230042991:android:59f3e7a381adcbf762289a",
+        "android_client_info": {
+          "package_name": "com.ecg_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo06jk7IBRh-ZpN_ZZjwWc99sBSY5vUCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
