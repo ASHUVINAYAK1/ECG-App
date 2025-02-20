@@ -166,9 +166,3 @@ After making modifications:
 - Always **test your code** before submitting a PR.
 
 ---
-
-## 📞 Need Help?
-If you have any questions, reach out to the **maintainers** or **create an issue** on GitHub.
-
----
-**Happy Coding! 🚀**
